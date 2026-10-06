@@ -32,4 +32,4 @@ Find Tools, Tweaks, OS
 ***
 ***
 # [GIO's Tweak Tips](https://github.com/GIORIEL/Trillium/wiki/GIO's-Tweaks-Tips)
-Tweak Tips bt GIO
+Tweak Tips by GIO
