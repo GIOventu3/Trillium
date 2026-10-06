@@ -2,7 +2,7 @@
 Read before visiting these sites
 ***
 ***
-# [Ads Blockers / Privacy](https://github.com/GIO-StillLearning/Trillium/wiki/ADs-Blocker)
+# [Ads Blockers / Privacy]([https://github.com/GIO-StillLearning/Trillium/wiki/ADs-Blocker](https://github.com/GIOventu3/Trillium/wiki/Privacy-Tools))
 Ads Blockers, VPNS, Antivirus for both Pc and Mobile
 
 ***
